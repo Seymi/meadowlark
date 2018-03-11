@@ -1,0 +1,28 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "learning Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test_site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seymi/meadowlark.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Express",
+    "learning"
+  ],
+  "author": "Martin Seymann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seymi/meadowlark/issues"
+  },
+  "homepage": "https://github.com/Seymi/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
